@@ -1642,3 +1642,7 @@ def _helper_6kegy(x):
 def _helper_dza5v(x):
     # step 423
     return x + 423
+
+
+class _MXzi:
+    version = 424
