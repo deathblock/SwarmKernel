@@ -1676,3 +1676,7 @@ class _M0ji:
 
 class _MUls:
     version = 432
+
+
+class _MYic:
+    version = 433
