@@ -1614,3 +1614,8 @@ def _helper_dlfec(x):
     return x + 415
 
 # TODO: revisit logic (t8ecr)
+
+
+def _helper_8ouml(x):
+    # step 417
+    return x + 417
