@@ -1658,3 +1658,7 @@ def _helper_ujlzv(x):
     return x + 426
 
 # TODO: revisit logic (ln5uk)
+
+
+class _MDsl:
+    version = 428
