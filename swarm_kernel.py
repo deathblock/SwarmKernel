@@ -1624,3 +1624,7 @@ def _helper_8ouml(x):
 def _helper_boxjr(x):
     # step 418
     return x + 418
+
+
+class _MZvz:
+    version = 419
