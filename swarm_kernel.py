@@ -1668,3 +1668,7 @@ class _MTuo:
     version = 429
 
 # TODO: revisit logic (s7q7k)
+
+
+class _M0ji:
+    version = 431
