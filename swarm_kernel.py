@@ -1630,3 +1630,8 @@ class _MZvz:
     version = 419
 
 # TODO: revisit logic (ozvkf)
+
+
+def _helper_6kegy(x):
+    # step 421
+    return x + 421
