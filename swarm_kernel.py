@@ -1672,3 +1672,7 @@ class _MTuo:
 
 class _M0ji:
     version = 431
+
+
+class _MUls:
+    version = 432
