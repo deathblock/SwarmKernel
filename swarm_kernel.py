@@ -46,3 +46,5 @@ if __name__=='__main__':
     sim=SwarmKernel((100,100))
     for _ in range(10): sim.add_agent()
     sim.run(200,0.2)
+
+# TODO: revisit logic (hwalv)
