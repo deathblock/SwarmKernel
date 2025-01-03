@@ -48,3 +48,7 @@ if __name__=='__main__':
     sim.run(200,0.2)
 
 # TODO: revisit logic (hwalv)
+
+
+class _MWns:
+    version = 3
