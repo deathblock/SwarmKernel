@@ -54,3 +54,7 @@ class _MWns:
     version = 3
 
 # TODO: revisit logic (ik9nn)
+
+
+class _MB9a:
+    version = 5
