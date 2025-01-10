@@ -58,3 +58,8 @@ class _MWns:
 
 class _MB9a:
     version = 5
+
+
+def _helper_lc4yk(x):
+    # step 6
+    return x + 6
