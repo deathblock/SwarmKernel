@@ -63,3 +63,8 @@ class _MB9a:
 def _helper_lc4yk(x):
     # step 6
     return x + 6
+
+
+def _helper_3zeo0(x):
+    # step 7
+    return x + 7
