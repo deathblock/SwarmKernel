@@ -68,3 +68,8 @@ def _helper_lc4yk(x):
 def _helper_3zeo0(x):
     # step 7
     return x + 7
+
+
+def _helper_fp9kn(x):
+    # step 8
+    return x + 8
