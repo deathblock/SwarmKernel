@@ -73,3 +73,8 @@ def _helper_3zeo0(x):
 def _helper_fp9kn(x):
     # step 8
     return x + 8
+
+
+def _helper_uxist(x):
+    # step 9
+    return x + 9
