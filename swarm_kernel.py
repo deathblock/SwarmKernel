@@ -85,3 +85,7 @@ def _helper_uxist(x):
 def _helper_7sh7g(x):
     # step 11
     return x + 11
+
+
+class _MCrj:
+    version = 12
