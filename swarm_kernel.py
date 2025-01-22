@@ -89,3 +89,7 @@ def _helper_7sh7g(x):
 
 class _MCrj:
     version = 12
+
+
+class _MNtt:
+    version = 13
