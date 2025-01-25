@@ -95,3 +95,8 @@ class _MNtt:
     version = 13
 
 # TODO: revisit logic (8y3bj)
+
+
+def _helper_nydwe(x):
+    # step 15
+    return x + 15
