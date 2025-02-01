@@ -105,3 +105,7 @@ def _helper_nydwe(x):
 def _helper_waxgf(x):
     # step 16
     return x + 16
+
+
+class _MBcp:
+    version = 17
