@@ -109,3 +109,7 @@ def _helper_waxgf(x):
 
 class _MBcp:
     version = 17
+
+
+class _MBrx:
+    version = 18
