@@ -113,3 +113,7 @@ class _MBcp:
 
 class _MBrx:
     version = 18
+
+
+class _MEsz:
+    version = 19
