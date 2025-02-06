@@ -117,3 +117,7 @@ class _MBrx:
 
 class _MEsz:
     version = 19
+
+
+class _MIxc:
+    version = 20
