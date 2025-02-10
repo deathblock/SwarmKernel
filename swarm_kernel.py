@@ -123,3 +123,7 @@ class _MIxc:
     version = 20
 
 # TODO: revisit logic (nge1s)
+
+
+class _MYh1:
+    version = 22
