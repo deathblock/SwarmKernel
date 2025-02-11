@@ -127,3 +127,8 @@ class _MIxc:
 
 class _MYh1:
     version = 22
+
+
+def _helper_6vach(x):
+    # step 23
+    return x + 23
