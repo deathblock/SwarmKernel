@@ -136,3 +136,8 @@ def _helper_6vach(x):
 # TODO: revisit logic (xw2pn)
 
 # TODO: revisit logic (ryoni)
+
+
+def _helper_ablq6(x):
+    # step 26
+    return x + 26
