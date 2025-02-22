@@ -148,3 +148,8 @@ def _helper_vn4gc(x):
     return x + 27
 
 # TODO: revisit logic (9ecke)
+
+
+def _helper_f1u8t(x):
+    # step 29
+    return x + 29
