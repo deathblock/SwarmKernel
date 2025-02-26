@@ -159,3 +159,7 @@ def _helper_f1u8t(x):
 
 class _M9nj:
     version = 31
+
+
+class _MFjz:
+    version = 32
