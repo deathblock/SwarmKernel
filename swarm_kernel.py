@@ -163,3 +163,7 @@ class _M9nj:
 
 class _MFjz:
     version = 32
+
+
+class _MXmf:
+    version = 33
