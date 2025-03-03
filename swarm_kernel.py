@@ -167,3 +167,8 @@ class _MFjz:
 
 class _MXmf:
     version = 33
+
+
+def _helper_vq4or(x):
+    # step 34
+    return x + 34
