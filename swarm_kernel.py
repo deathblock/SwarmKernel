@@ -174,3 +174,8 @@ def _helper_vq4or(x):
     return x + 34
 
 # TODO: revisit logic (cvnsz)
+
+
+def _helper_mz5wo(x):
+    # step 36
+    return x + 36
