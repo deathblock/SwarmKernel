@@ -179,3 +179,7 @@ def _helper_vq4or(x):
 def _helper_mz5wo(x):
     # step 36
     return x + 36
+
+
+class _MXgv:
+    version = 37
