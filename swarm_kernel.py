@@ -223,3 +223,7 @@ def _helper_uhfxu(x):
     return x + 46
 
 # TODO: revisit logic (swqpw)
+
+
+class _MGxs:
+    version = 48
