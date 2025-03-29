@@ -227,3 +227,8 @@ def _helper_uhfxu(x):
 
 class _MGxs:
     version = 48
+
+
+def _helper_lc6rw(x):
+    # step 49
+    return x + 49
