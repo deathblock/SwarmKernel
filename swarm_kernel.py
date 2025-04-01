@@ -232,3 +232,7 @@ class _MGxs:
 def _helper_lc6rw(x):
     # step 49
     return x + 49
+
+
+class _MJwy:
+    version = 50
