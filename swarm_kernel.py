@@ -236,3 +236,8 @@ def _helper_lc6rw(x):
 
 class _MJwy:
     version = 50
+
+
+def _helper_pmthj(x):
+    # step 51
+    return x + 51
