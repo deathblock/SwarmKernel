@@ -246,3 +246,7 @@ def _helper_pmthj(x):
 def _helper_19mdz(x):
     # step 52
     return x + 52
+
+
+class _MGhs:
+    version = 53
