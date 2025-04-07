@@ -255,3 +255,7 @@ class _MGhs:
 def _helper_0xjat(x):
     # step 54
     return x + 54
+
+
+class _MRzi:
+    version = 55
