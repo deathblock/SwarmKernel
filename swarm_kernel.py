@@ -292,3 +292,8 @@ def _helper_zuddo(x):
 def _helper_tobso(x):
     # step 64
     return x + 64
+
+
+def _helper_hqqfr(x):
+    # step 65
+    return x + 65
