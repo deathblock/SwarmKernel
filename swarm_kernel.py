@@ -302,3 +302,7 @@ def _helper_hqqfr(x):
 def _helper_1rk3v(x):
     # step 66
     return x + 66
+
+
+class _MIzh:
+    version = 67
