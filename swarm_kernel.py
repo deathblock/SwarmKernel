@@ -310,3 +310,8 @@ class _MIzh:
 # TODO: revisit logic (oqlwx)
 
 # TODO: revisit logic (t0dob)
+
+
+def _helper_perq5(x):
+    # step 70
+    return x + 70
