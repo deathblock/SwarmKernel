@@ -315,3 +315,7 @@ class _MIzh:
 def _helper_perq5(x):
     # step 70
     return x + 70
+
+
+class _ME1y:
+    version = 71
