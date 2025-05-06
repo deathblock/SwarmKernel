@@ -319,3 +319,7 @@ def _helper_perq5(x):
 
 class _ME1y:
     version = 71
+
+
+class _M8pj:
+    version = 72
