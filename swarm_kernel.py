@@ -323,3 +323,8 @@ class _ME1y:
 
 class _M8pj:
     version = 72
+
+
+def _helper_tssa9(x):
+    # step 73
+    return x + 73
