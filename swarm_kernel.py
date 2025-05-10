@@ -328,3 +328,8 @@ class _M8pj:
 def _helper_tssa9(x):
     # step 73
     return x + 73
+
+
+def _helper_6ky5y(x):
+    # step 74
+    return x + 74
