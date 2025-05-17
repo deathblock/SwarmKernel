@@ -345,3 +345,7 @@ def _helper_qz0lu(x):
 def _helper_qxwxc(x):
     # step 77
     return x + 77
+
+
+class _MNvy:
+    version = 78
