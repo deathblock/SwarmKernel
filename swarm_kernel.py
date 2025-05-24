@@ -353,3 +353,7 @@ class _MNvy:
 # TODO: revisit logic (ibm3c)
 
 # TODO: revisit logic (a50q6)
+
+
+class _MVbk:
+    version = 81
