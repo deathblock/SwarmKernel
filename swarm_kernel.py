@@ -357,3 +357,8 @@ class _MNvy:
 
 class _MVbk:
     version = 81
+
+
+def _helper_kjtod(x):
+    # step 82
+    return x + 82
