@@ -367,3 +367,7 @@ def _helper_kjtod(x):
 def _helper_czxfa(x):
     # step 83
     return x + 83
+
+
+class _M74o:
+    version = 84
