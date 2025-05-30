@@ -376,3 +376,7 @@ class _M74o:
 def _helper_xzbnz(x):
     # step 85
     return x + 85
+
+
+class _M7fk:
+    version = 86
