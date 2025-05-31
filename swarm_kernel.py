@@ -380,3 +380,7 @@ def _helper_xzbnz(x):
 
 class _M7fk:
     version = 86
+
+
+class _MLl5:
+    version = 87
