@@ -384,3 +384,7 @@ class _M7fk:
 
 class _MLl5:
     version = 87
+
+
+class _MBmy:
+    version = 88
