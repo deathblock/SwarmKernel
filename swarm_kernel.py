@@ -388,3 +388,7 @@ class _MLl5:
 
 class _MBmy:
     version = 88
+
+
+class _MXga:
+    version = 89
