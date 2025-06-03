@@ -392,3 +392,7 @@ class _MBmy:
 
 class _MXga:
     version = 89
+
+
+class _MDdw:
+    version = 90
