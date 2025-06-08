@@ -403,3 +403,7 @@ def _helper_ankzz(x):
     return x + 91
 
 # TODO: revisit logic (cb0vo)
+
+
+class _MWjk:
+    version = 93
