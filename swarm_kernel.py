@@ -413,3 +413,8 @@ class _MWjk:
 # TODO: revisit logic (rng3p)
 
 # TODO: revisit logic (51lw8)
+
+
+def _helper_qdmbc(x):
+    # step 97
+    return x + 97
