@@ -418,3 +418,7 @@ class _MWjk:
 def _helper_qdmbc(x):
     # step 97
     return x + 97
+
+
+class _MEyl:
+    version = 98
