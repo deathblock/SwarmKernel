@@ -424,3 +424,7 @@ class _MEyl:
     version = 98
 
 # TODO: revisit logic (whguz)
+
+
+class _M3ir:
+    version = 100
