@@ -442,3 +442,8 @@ def _helper_jbqd6(x):
     return x + 103
 
 # TODO: revisit logic (ereba)
+
+
+def _helper_de787(x):
+    # step 105
+    return x + 105
