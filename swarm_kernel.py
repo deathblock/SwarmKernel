@@ -454,3 +454,8 @@ def _helper_4g2n1(x):
     return x + 106
 
 # TODO: revisit logic (b9gpg)
+
+
+def _helper_cbrlv(x):
+    # step 108
+    return x + 108
