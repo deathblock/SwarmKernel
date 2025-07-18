@@ -459,3 +459,7 @@ def _helper_4g2n1(x):
 def _helper_cbrlv(x):
     # step 108
     return x + 108
+
+
+class _MBcv:
+    version = 109
