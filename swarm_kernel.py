@@ -467,3 +467,7 @@ class _MBcv:
 # TODO: revisit logic (qxyjq)
 
 # TODO: revisit logic (gdrhi)
+
+
+class _MJ3z:
+    version = 112
