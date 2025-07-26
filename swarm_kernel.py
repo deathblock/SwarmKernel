@@ -476,3 +476,7 @@ class _MJ3z:
 def _helper_mrn4b(x):
     # step 113
     return x + 113
+
+
+class _MDtl:
+    version = 114
