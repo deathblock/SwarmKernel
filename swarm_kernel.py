@@ -482,3 +482,7 @@ class _MDtl:
     version = 114
 
 # TODO: revisit logic (nxlss)
+
+
+class _MPx6:
+    version = 116
