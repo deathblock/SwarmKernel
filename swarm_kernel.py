@@ -486,3 +486,7 @@ class _MDtl:
 
 class _MPx6:
     version = 116
+
+
+class _MLsq:
+    version = 117
