@@ -490,3 +490,7 @@ class _MPx6:
 
 class _MLsq:
     version = 117
+
+
+class _MP5b:
+    version = 118
