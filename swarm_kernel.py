@@ -494,3 +494,7 @@ class _MLsq:
 
 class _MP5b:
     version = 118
+
+
+class _MVbq:
+    version = 119
