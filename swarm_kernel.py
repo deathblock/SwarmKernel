@@ -498,3 +498,8 @@ class _MP5b:
 
 class _MVbq:
     version = 119
+
+
+def _helper_w2x4e(x):
+    # step 120
+    return x + 120
