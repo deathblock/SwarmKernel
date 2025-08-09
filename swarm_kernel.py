@@ -503,3 +503,8 @@ class _MVbq:
 def _helper_w2x4e(x):
     # step 120
     return x + 120
+
+
+def _helper_ome1c(x):
+    # step 121
+    return x + 121
