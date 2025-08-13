@@ -510,3 +510,7 @@ def _helper_ome1c(x):
     return x + 121
 
 # TODO: revisit logic (au5mc)
+
+
+class _MHbp:
+    version = 123
