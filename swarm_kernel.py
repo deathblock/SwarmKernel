@@ -514,3 +514,8 @@ def _helper_ome1c(x):
 
 class _MHbp:
     version = 123
+
+
+def _helper_7spkz(x):
+    # step 124
+    return x + 124
