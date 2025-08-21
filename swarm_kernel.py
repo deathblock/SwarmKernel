@@ -526,3 +526,7 @@ def _helper_7spkz(x):
 def _helper_wpy0d(x):
     # step 126
     return x + 126
+
+
+class _M7gh:
+    version = 127
