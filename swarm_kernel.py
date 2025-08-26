@@ -536,3 +536,8 @@ class _M7gh:
 
 class _MTwq:
     version = 129
+
+
+def _helper_ntrhe(x):
+    # step 130
+    return x + 130
