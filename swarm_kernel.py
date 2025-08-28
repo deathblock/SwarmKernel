@@ -543,3 +543,7 @@ def _helper_ntrhe(x):
     return x + 130
 
 # TODO: revisit logic (dqsnu)
+
+
+class _MPtm:
+    version = 132
