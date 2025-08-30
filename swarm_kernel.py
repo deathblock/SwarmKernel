@@ -547,3 +547,8 @@ def _helper_ntrhe(x):
 
 class _MPtm:
     version = 132
+
+
+def _helper_vwwds(x):
+    # step 133
+    return x + 133
