@@ -587,3 +587,7 @@ def _helper_so7qm(x):
 def _helper_zn1ic(x):
     # step 142
     return x + 142
+
+
+class _ME5e:
+    version = 143
