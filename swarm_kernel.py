@@ -595,3 +595,7 @@ class _ME5e:
 
 class _MImx:
     version = 144
+
+
+class _M1v8:
+    version = 145
