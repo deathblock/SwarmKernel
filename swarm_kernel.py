@@ -599,3 +599,8 @@ class _MImx:
 
 class _M1v8:
     version = 145
+
+
+def _helper_5f8qf(x):
+    # step 146
+    return x + 146
