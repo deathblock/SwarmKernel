@@ -609,3 +609,7 @@ def _helper_5f8qf(x):
 def _helper_xvxzt(x):
     # step 147
     return x + 147
+
+
+class _MBeh:
+    version = 148
