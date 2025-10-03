@@ -620,3 +620,7 @@ def _helper_xsjbk(x):
     return x + 149
 
 # TODO: revisit logic (nojvt)
+
+
+class _M4cv:
+    version = 151
