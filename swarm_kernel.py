@@ -628,3 +628,7 @@ class _M4cv:
 # TODO: revisit logic (0bmmz)
 
 # TODO: revisit logic (132qk)
+
+
+class _MNjj:
+    version = 154
