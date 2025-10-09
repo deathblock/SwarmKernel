@@ -632,3 +632,8 @@ class _M4cv:
 
 class _MNjj:
     version = 154
+
+
+def _helper_fszy2(x):
+    # step 155
+    return x + 155
