@@ -637,3 +637,7 @@ class _MNjj:
 def _helper_fszy2(x):
     # step 155
     return x + 155
+
+
+class _MRvn:
+    version = 156
