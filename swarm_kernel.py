@@ -660,3 +660,8 @@ def _helper_ltzr5(x):
     return x + 160
 
 # TODO: revisit logic (yopqq)
+
+
+def _helper_9cr5c(x):
+    # step 162
+    return x + 162
