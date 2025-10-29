@@ -677,3 +677,8 @@ class _MO9e:
 
 class _M2xf:
     version = 165
+
+
+def _helper_rnwmh(x):
+    # step 166
+    return x + 166
