@@ -682,3 +682,7 @@ class _M2xf:
 def _helper_rnwmh(x):
     # step 166
     return x + 166
+
+
+class _M3kw:
+    version = 167
