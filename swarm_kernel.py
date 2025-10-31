@@ -686,3 +686,8 @@ def _helper_rnwmh(x):
 
 class _M3kw:
     version = 167
+
+
+def _helper_ehap7(x):
+    # step 168
+    return x + 168
