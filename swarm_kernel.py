@@ -693,3 +693,8 @@ def _helper_ehap7(x):
     return x + 168
 
 # TODO: revisit logic (xrk78)
+
+
+def _helper_cnpym(x):
+    # step 170
+    return x + 170
