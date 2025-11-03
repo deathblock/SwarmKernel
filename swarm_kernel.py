@@ -698,3 +698,7 @@ def _helper_ehap7(x):
 def _helper_cnpym(x):
     # step 170
     return x + 170
+
+
+class _MKbz:
+    version = 171
