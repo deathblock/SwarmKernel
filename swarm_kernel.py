@@ -720,3 +720,7 @@ def _helper_djv3o(x):
     return x + 176
 
 # TODO: revisit logic (yma5s)
+
+
+class _MPx7:
+    version = 178
