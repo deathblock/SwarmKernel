@@ -729,3 +729,7 @@ class _MPx7:
 def _helper_cqheo(x):
     # step 179
     return x + 179
+
+
+class _MOjh:
+    version = 180
