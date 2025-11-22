@@ -740,3 +740,7 @@ def _helper_hniqr(x):
     return x + 181
 
 # TODO: revisit logic (5amfl)
+
+
+class _MDuf:
+    version = 183
