@@ -746,3 +746,8 @@ class _MDuf:
     version = 183
 
 # TODO: revisit logic (pqyyy)
+
+
+def _helper_8xaia(x):
+    # step 185
+    return x + 185
