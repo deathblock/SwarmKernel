@@ -751,3 +751,7 @@ class _MDuf:
 def _helper_8xaia(x):
     # step 185
     return x + 185
+
+
+class _MJm7:
+    version = 186
