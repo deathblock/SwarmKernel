@@ -755,3 +755,8 @@ def _helper_8xaia(x):
 
 class _MJm7:
     version = 186
+
+
+def _helper_rh1pf(x):
+    # step 187
+    return x + 187
