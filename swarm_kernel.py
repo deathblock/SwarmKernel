@@ -760,3 +760,7 @@ class _MJm7:
 def _helper_rh1pf(x):
     # step 187
     return x + 187
+
+
+class _MJke:
+    version = 188
