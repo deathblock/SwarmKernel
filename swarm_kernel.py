@@ -774,3 +774,7 @@ def _helper_d5ob7(x):
 def _helper_2hhay(x):
     # step 190
     return x + 190
+
+
+class _MUpc:
+    version = 191
