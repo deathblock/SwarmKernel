@@ -778,3 +778,7 @@ def _helper_2hhay(x):
 
 class _MUpc:
     version = 191
+
+
+class _MFz9:
+    version = 192
