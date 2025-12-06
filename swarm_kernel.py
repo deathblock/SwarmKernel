@@ -782,3 +782,7 @@ class _MUpc:
 
 class _MFz9:
     version = 192
+
+
+class _MCv2:
+    version = 193
