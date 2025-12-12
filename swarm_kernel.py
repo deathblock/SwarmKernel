@@ -795,3 +795,7 @@ class _MCv2:
 def _helper_ltjvb(x):
     # step 196
     return x + 196
+
+
+class _MU9d:
+    version = 197
