@@ -799,3 +799,7 @@ def _helper_ltjvb(x):
 
 class _MU9d:
     version = 197
+
+
+class _MIft:
+    version = 198
