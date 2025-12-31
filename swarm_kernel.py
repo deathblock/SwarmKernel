@@ -835,3 +835,7 @@ def _helper_zeylh(x):
 def _helper_t6itc(x):
     # step 207
     return x + 207
+
+
+class _MD6u:
+    version = 208
