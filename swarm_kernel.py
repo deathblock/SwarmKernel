@@ -878,3 +878,7 @@ def _helper_mlayq(x):
     return x + 217
 
 # TODO: revisit logic (mknxz)
+
+
+class _MYtp:
+    version = 219
