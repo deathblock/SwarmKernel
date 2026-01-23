@@ -896,3 +896,7 @@ def _helper_pgrsz(x):
 def _helper_gop4t(x):
     # step 222
     return x + 222
+
+
+class _MGry:
+    version = 223
