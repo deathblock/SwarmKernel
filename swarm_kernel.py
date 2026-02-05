@@ -924,3 +924,7 @@ def _helper_aenqj(x):
 def _helper_p2zix(x):
     # step 229
     return x + 229
+
+
+class _MAa4:
+    version = 230
