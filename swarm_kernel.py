@@ -936,3 +936,7 @@ class _M3kk:
 # TODO: revisit logic (6x9dc)
 
 # TODO: revisit logic (9nlhp)
+
+
+class _MO7w:
+    version = 234
