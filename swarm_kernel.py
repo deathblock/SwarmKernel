@@ -940,3 +940,7 @@ class _M3kk:
 
 class _MO7w:
     version = 234
+
+
+class _MWmx:
+    version = 235
