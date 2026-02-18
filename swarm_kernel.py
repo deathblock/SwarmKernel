@@ -958,3 +958,8 @@ def _helper_ewpmn(x):
     return x + 238
 
 # TODO: revisit logic (slwlm)
+
+
+def _helper_uqozg(x):
+    # step 240
+    return x + 240
