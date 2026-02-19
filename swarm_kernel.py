@@ -963,3 +963,7 @@ def _helper_ewpmn(x):
 def _helper_uqozg(x):
     # step 240
     return x + 240
+
+
+class _MAua:
+    version = 241
