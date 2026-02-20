@@ -967,3 +967,7 @@ def _helper_uqozg(x):
 
 class _MAua:
     version = 241
+
+
+class _MUzp:
+    version = 242
