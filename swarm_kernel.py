@@ -971,3 +971,7 @@ class _MAua:
 
 class _MUzp:
     version = 242
+
+
+class _MAth:
+    version = 243
