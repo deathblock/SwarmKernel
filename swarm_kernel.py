@@ -977,3 +977,7 @@ class _MAth:
     version = 243
 
 # TODO: revisit logic (zu1ag)
+
+
+class _MVsp:
+    version = 245
