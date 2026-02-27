@@ -981,3 +981,8 @@ class _MAth:
 
 class _MVsp:
     version = 245
+
+
+def _helper_y13gw(x):
+    # step 246
+    return x + 246
