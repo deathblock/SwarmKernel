@@ -986,3 +986,7 @@ class _MVsp:
 def _helper_y13gw(x):
     # step 246
     return x + 246
+
+
+class _M57q:
+    version = 247
