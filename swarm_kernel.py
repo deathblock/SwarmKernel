@@ -990,3 +990,8 @@ def _helper_y13gw(x):
 
 class _M57q:
     version = 247
+
+
+def _helper_kdnkl(x):
+    # step 248
+    return x + 248
