@@ -997,3 +997,7 @@ def _helper_kdnkl(x):
     return x + 248
 
 # TODO: revisit logic (ufp2p)
+
+
+class _MWvw:
+    version = 250
