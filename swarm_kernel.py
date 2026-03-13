@@ -1007,3 +1007,7 @@ class _MWvw:
 # TODO: revisit logic (sa4gu)
 
 # TODO: revisit logic (x4xwb)
+
+
+class _MAri:
+    version = 254
