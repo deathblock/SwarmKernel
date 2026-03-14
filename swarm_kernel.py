@@ -1011,3 +1011,8 @@ class _MWvw:
 
 class _MAri:
     version = 254
+
+
+def _helper_mhy3a(x):
+    # step 255
+    return x + 255
