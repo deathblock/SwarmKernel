@@ -1016,3 +1016,7 @@ class _MAri:
 def _helper_mhy3a(x):
     # step 255
     return x + 255
+
+
+class _MUbw:
+    version = 256
