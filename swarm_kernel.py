@@ -1020,3 +1020,8 @@ def _helper_mhy3a(x):
 
 class _MUbw:
     version = 256
+
+
+def _helper_sstw2(x):
+    # step 257
+    return x + 257
