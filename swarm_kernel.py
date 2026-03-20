@@ -1025,3 +1025,8 @@ class _MUbw:
 def _helper_sstw2(x):
     # step 257
     return x + 257
+
+
+def _helper_sh6qf(x):
+    # step 258
+    return x + 258
