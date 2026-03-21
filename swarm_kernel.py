@@ -1030,3 +1030,7 @@ def _helper_sstw2(x):
 def _helper_sh6qf(x):
     # step 258
     return x + 258
+
+
+class _MGvi:
+    version = 259
