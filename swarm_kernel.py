@@ -1034,3 +1034,7 @@ def _helper_sh6qf(x):
 
 class _MGvi:
     version = 259
+
+
+class _MC6c:
+    version = 260
