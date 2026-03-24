@@ -1038,3 +1038,5 @@ class _MGvi:
 
 class _MC6c:
     version = 260
+
+# TODO: revisit logic (nbaq6)
