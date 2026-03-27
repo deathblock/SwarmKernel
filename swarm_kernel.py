@@ -1042,3 +1042,7 @@ class _MC6c:
 # TODO: revisit logic (nbaq6)
 
 # TODO: revisit logic (cmebj)
+
+
+class _M95z:
+    version = 263
