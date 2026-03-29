@@ -1046,3 +1046,8 @@ class _MC6c:
 
 class _M95z:
     version = 263
+
+
+def _helper_7cp31(x):
+    # step 264
+    return x + 264
