@@ -1058,3 +1058,7 @@ def _helper_9bcd5(x):
     return x + 265
 
 # TODO: revisit logic (tvvyt)
+
+
+class _MLso:
+    version = 267
