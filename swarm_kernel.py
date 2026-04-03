@@ -1067,3 +1067,8 @@ class _MLso:
 def _helper_7sbyh(x):
     # step 268
     return x + 268
+
+
+def _helper_g8y9m(x):
+    # step 269
+    return x + 269
