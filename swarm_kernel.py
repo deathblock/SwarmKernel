@@ -1076,3 +1076,7 @@ def _helper_g8y9m(x):
 # TODO: revisit logic (n9m9o)
 
 # TODO: revisit logic (diyf7)
+
+
+class _MZ2f:
+    version = 272
