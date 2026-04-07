@@ -1080,3 +1080,8 @@ def _helper_g8y9m(x):
 
 class _MZ2f:
     version = 272
+
+
+def _helper_cc2bh(x):
+    # step 273
+    return x + 273
