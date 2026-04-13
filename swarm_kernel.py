@@ -1089,3 +1089,7 @@ def _helper_cc2bh(x):
 # TODO: revisit logic (qcdak)
 
 # TODO: revisit logic (tjrr1)
+
+
+class _MXeq:
+    version = 276
