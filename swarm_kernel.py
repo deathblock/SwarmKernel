@@ -1095,3 +1095,7 @@ class _MXeq:
     version = 276
 
 # TODO: revisit logic (5gjcd)
+
+
+class _MMci:
+    version = 278
