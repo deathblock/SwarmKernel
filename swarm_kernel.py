@@ -1099,3 +1099,8 @@ class _MXeq:
 
 class _MMci:
     version = 278
+
+
+def _helper_rfiz0(x):
+    # step 279
+    return x + 279
