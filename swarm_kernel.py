@@ -1117,3 +1117,7 @@ class _MQ0u:
 # TODO: revisit logic (weelc)
 
 # TODO: revisit logic (tggob)
+
+
+class _MU5p:
+    version = 284
