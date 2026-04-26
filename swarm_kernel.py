@@ -1121,3 +1121,8 @@ class _MQ0u:
 
 class _MU5p:
     version = 284
+
+
+def _helper_cwoez(x):
+    # step 285
+    return x + 285
