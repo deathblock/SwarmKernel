@@ -1131,3 +1131,8 @@ def _helper_cwoez(x):
 def _helper_gukba(x):
     # step 286
     return x + 286
+
+
+def _helper_p31la(x):
+    # step 287
+    return x + 287
