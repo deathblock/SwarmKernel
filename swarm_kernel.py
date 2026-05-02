@@ -1136,3 +1136,8 @@ def _helper_gukba(x):
 def _helper_p31la(x):
     # step 287
     return x + 287
+
+
+def _helper_qge75(x):
+    # step 288
+    return x + 288
