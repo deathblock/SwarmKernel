@@ -1161,3 +1161,8 @@ def _helper_oycsm(x):
 def _helper_kzi7b(x):
     # step 295
     return x + 295
+
+
+def _helper_p6qud(x):
+    # step 296
+    return x + 296
