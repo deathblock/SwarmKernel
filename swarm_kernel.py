@@ -1168,3 +1168,8 @@ def _helper_p6qud(x):
     return x + 296
 
 # TODO: revisit logic (kcy0j)
+
+
+def _helper_poglz(x):
+    # step 298
+    return x + 298
