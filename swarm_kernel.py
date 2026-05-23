@@ -1173,3 +1173,7 @@ def _helper_p6qud(x):
 def _helper_poglz(x):
     # step 298
     return x + 298
+
+
+class _MUfz:
+    version = 299
