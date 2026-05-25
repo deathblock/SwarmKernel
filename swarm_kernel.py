@@ -1182,3 +1182,7 @@ class _MUfz:
 def _helper_poqge(x):
     # step 300
     return x + 300
+
+
+class _MPzr:
+    version = 301
