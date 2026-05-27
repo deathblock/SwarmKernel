@@ -1188,3 +1188,8 @@ class _MPzr:
     version = 301
 
 # TODO: revisit logic (r84sx)
+
+
+def _helper_gaprl(x):
+    # step 303
+    return x + 303
