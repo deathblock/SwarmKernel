@@ -1193,3 +1193,8 @@ class _MPzr:
 def _helper_gaprl(x):
     # step 303
     return x + 303
+
+
+def _helper_8ynt6(x):
+    # step 304
+    return x + 304
