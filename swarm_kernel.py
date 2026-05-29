@@ -1198,3 +1198,7 @@ def _helper_gaprl(x):
 def _helper_8ynt6(x):
     # step 304
     return x + 304
+
+
+class _MMnu:
+    version = 305
