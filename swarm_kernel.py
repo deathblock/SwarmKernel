@@ -1202,3 +1202,7 @@ def _helper_8ynt6(x):
 
 class _MMnu:
     version = 305
+
+
+class _MNzi:
+    version = 306
