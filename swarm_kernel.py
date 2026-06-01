@@ -1206,3 +1206,8 @@ class _MMnu:
 
 class _MNzi:
     version = 306
+
+
+def _helper_oajrm(x):
+    # step 307
+    return x + 307
