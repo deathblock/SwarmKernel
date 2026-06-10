@@ -1228,3 +1228,8 @@ class _M5av:
 
 class _MDps:
     version = 311
+
+
+def _helper_9nmjq(x):
+    # step 312
+    return x + 312
