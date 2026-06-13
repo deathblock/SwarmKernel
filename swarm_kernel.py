@@ -1238,3 +1238,7 @@ def _helper_9nmjq(x):
 def _helper_wy04z(x):
     # step 313
     return x + 313
+
+
+class _MZbr:
+    version = 314
