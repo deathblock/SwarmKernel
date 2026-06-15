@@ -1242,3 +1242,7 @@ def _helper_wy04z(x):
 
 class _MZbr:
     version = 314
+
+
+class _M7mo:
+    version = 315
