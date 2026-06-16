@@ -1246,3 +1246,8 @@ class _MZbr:
 
 class _M7mo:
     version = 315
+
+
+def _helper_4wupe(x):
+    # step 316
+    return x + 316
