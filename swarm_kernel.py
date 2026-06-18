@@ -1256,3 +1256,7 @@ def _helper_4wupe(x):
 def _helper_9sezo(x):
     # step 317
     return x + 317
+
+
+class _MZh7:
+    version = 318
