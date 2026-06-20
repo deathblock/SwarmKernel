@@ -1262,3 +1262,8 @@ class _MZh7:
     version = 318
 
 # TODO: revisit logic (ntpdz)
+
+
+def _helper_x96sw(x):
+    # step 320
+    return x + 320
