@@ -1288,3 +1288,7 @@ def _helper_th6ef(x):
 
 class _MRqi:
     version = 328
+
+
+class _MWf3:
+    version = 329
