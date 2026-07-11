@@ -1292,3 +1292,7 @@ class _MRqi:
 
 class _MWf3:
     version = 329
+
+
+class _M565:
+    version = 330
