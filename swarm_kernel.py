@@ -1296,3 +1296,7 @@ class _MWf3:
 
 class _M565:
     version = 330
+
+
+class _MUjh:
+    version = 331
