@@ -1300,3 +1300,7 @@ class _M565:
 
 class _MUjh:
     version = 331
+
+
+class _MXon:
+    version = 332
