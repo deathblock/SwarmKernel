@@ -1306,3 +1306,8 @@ class _MXon:
     version = 332
 
 # TODO: revisit logic (hf4c6)
+
+
+def _helper_n8ycg(x):
+    # step 334
+    return x + 334
