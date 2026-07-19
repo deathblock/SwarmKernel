@@ -1316,3 +1316,8 @@ def _helper_n8ycg(x):
 def _helper_ajug4(x):
     # step 335
     return x + 335
+
+
+def _helper_m6gvn(x):
+    # step 336
+    return x + 336
