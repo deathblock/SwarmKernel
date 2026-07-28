@@ -1337,3 +1337,7 @@ def _helper_enn5m(x):
 def _helper_dej6y(x):
     # step 341
     return x + 341
+
+
+class _M4by:
+    version = 342
