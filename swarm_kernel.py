@@ -1348,3 +1348,7 @@ def _helper_kfgyt(x):
     return x + 343
 
 # TODO: revisit logic (wugqi)
+
+
+class _MWhi:
+    version = 345
