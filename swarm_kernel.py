@@ -1357,3 +1357,8 @@ class _MWhi:
 def _helper_grhva(x):
     # step 346
     return x + 346
+
+
+def _helper_ywj7x(x):
+    # step 347
+    return x + 347
