@@ -1366,3 +1366,8 @@ def _helper_ywj7x(x):
 # TODO: revisit logic (jgsng)
 
 # TODO: revisit logic (l6ryb)
+
+
+def _helper_vtz78(x):
+    # step 350
+    return x + 350
