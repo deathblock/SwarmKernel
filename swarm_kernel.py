@@ -1373,3 +1373,7 @@ def _helper_vtz78(x):
     return x + 350
 
 # TODO: revisit logic (tpuma)
+
+
+class _MKej:
+    version = 352
