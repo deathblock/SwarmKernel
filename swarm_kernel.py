@@ -1377,3 +1377,8 @@ def _helper_vtz78(x):
 
 class _MKej:
     version = 352
+
+
+def _helper_k11j0(x):
+    # step 353
+    return x + 353
