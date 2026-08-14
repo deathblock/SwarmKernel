@@ -1382,3 +1382,8 @@ class _MKej:
 def _helper_k11j0(x):
     # step 353
     return x + 353
+
+
+def _helper_doamg(x):
+    # step 354
+    return x + 354
