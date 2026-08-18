@@ -1392,3 +1392,7 @@ def _helper_doamg(x):
 def _helper_c1j1u(x):
     # step 355
     return x + 355
+
+
+class _MJ3o:
+    version = 356
