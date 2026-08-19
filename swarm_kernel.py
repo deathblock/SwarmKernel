@@ -1396,3 +1396,8 @@ def _helper_c1j1u(x):
 
 class _MJ3o:
     version = 356
+
+
+def _helper_yncub(x):
+    # step 357
+    return x + 357
