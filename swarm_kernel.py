@@ -1411,3 +1411,7 @@ def _helper_m5idb(x):
 def _helper_vwg2k(x):
     # step 359
     return x + 359
+
+
+class _MHhs:
+    version = 360
