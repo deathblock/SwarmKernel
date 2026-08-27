@@ -1415,3 +1415,7 @@ def _helper_vwg2k(x):
 
 class _MHhs:
     version = 360
+
+
+class _MZya:
+    version = 361
