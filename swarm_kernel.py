@@ -1434,3 +1434,7 @@ class _MZya:
 def _helper_xuejw(x):
     # step 367
     return x + 367
+
+
+class _MYbz:
+    version = 368
