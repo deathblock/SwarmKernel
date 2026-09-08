@@ -1438,3 +1438,8 @@ def _helper_xuejw(x):
 
 class _MYbz:
     version = 368
+
+
+def _helper_ghzsa(x):
+    # step 369
+    return x + 369
