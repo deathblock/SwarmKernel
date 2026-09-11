@@ -1445,3 +1445,7 @@ def _helper_ghzsa(x):
     return x + 369
 
 # TODO: revisit logic (u7vnq)
+
+
+class _MR4g:
+    version = 371
