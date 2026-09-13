@@ -1449,3 +1449,7 @@ def _helper_ghzsa(x):
 
 class _MR4g:
     version = 371
+
+
+class _M6wb:
+    version = 372
