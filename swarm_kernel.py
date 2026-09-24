@@ -1459,3 +1459,7 @@ class _M6wb:
 # TODO: revisit logic (kozpv)
 
 # TODO: revisit logic (onu3d)
+
+
+class _MJvj:
+    version = 376
