@@ -1463,3 +1463,7 @@ class _M6wb:
 
 class _MJvj:
     version = 376
+
+
+class _MKdc:
+    version = 377
