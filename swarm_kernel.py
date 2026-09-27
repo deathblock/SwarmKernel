@@ -1467,3 +1467,8 @@ class _MJvj:
 
 class _MKdc:
     version = 377
+
+
+def _helper_yrs7e(x):
+    # step 378
+    return x + 378
