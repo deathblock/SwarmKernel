@@ -1472,3 +1472,7 @@ class _MKdc:
 def _helper_yrs7e(x):
     # step 378
     return x + 378
+
+
+class _MVub:
+    version = 379
