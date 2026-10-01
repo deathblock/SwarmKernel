@@ -1476,3 +1476,8 @@ def _helper_yrs7e(x):
 
 class _MVub:
     version = 379
+
+
+def _helper_heizj(x):
+    # step 380
+    return x + 380
