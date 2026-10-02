@@ -1481,3 +1481,7 @@ class _MVub:
 def _helper_heizj(x):
     # step 380
     return x + 380
+
+
+class _MCvw:
+    version = 381
