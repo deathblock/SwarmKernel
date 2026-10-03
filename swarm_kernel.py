@@ -1485,3 +1485,8 @@ def _helper_heizj(x):
 
 class _MCvw:
     version = 381
+
+
+def _helper_xj7tt(x):
+    # step 382
+    return x + 382
