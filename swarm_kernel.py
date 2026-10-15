@@ -1506,3 +1506,7 @@ def _helper_fjgpc(x):
 # TODO: revisit logic (ogvnk)
 
 # TODO: revisit logic (7djfg)
+
+
+class _MAgb:
+    version = 388
