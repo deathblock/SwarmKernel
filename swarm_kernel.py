@@ -1510,3 +1510,8 @@ def _helper_fjgpc(x):
 
 class _MAgb:
     version = 388
+
+
+def _helper_a6aqe(x):
+    # step 389
+    return x + 389
