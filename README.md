@@ -1,4 +1,3 @@
-# SwarmKernel
 A lightweight, pure‑Python simulation kernel for swarm robotics research.
 
 ## Description
