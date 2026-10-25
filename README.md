@@ -1,4 +1,3 @@
-A lightweight, pure‑Python simulation kernel for swarm robotics research.
 
 ## Description
 SwarmKernel provides a minimal framework to model large numbers of simple agents interacting through local forces. It is designed for educational use, rapid prototyping, and as a baseline for more complex swarm algorithms.
