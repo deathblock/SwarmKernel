@@ -1520,3 +1520,7 @@ def _helper_a6aqe(x):
 def _helper_vswe4(x):
     # step 390
     return x + 390
+
+
+class _MGsx:
+    version = 391
