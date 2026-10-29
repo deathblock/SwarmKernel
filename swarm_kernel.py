@@ -1528,3 +1528,7 @@ class _MGsx:
 # TODO: revisit logic (fkt5t)
 
 # TODO: revisit logic (oxrov)
+
+
+class _MWjk:
+    version = 394
