@@ -1536,3 +1536,8 @@ class _MWjk:
 # TODO: revisit logic (207co)
 
 # TODO: revisit logic (p4rpc)
+
+
+def _helper_fqdgz(x):
+    # step 397
+    return x + 397
