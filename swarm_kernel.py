@@ -1546,3 +1546,7 @@ def _helper_fqdgz(x):
 def _helper_lr0xw(x):
     # step 398
     return x + 398
+
+
+class _MWsq:
+    version = 399
