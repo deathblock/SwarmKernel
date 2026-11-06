@@ -1550,3 +1550,8 @@ def _helper_lr0xw(x):
 
 class _MWsq:
     version = 399
+
+
+def _helper_goiad(x):
+    # step 400
+    return x + 400
