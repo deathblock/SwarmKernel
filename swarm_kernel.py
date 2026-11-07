@@ -1555,3 +1555,7 @@ class _MWsq:
 def _helper_goiad(x):
     # step 400
     return x + 400
+
+
+class _MWt6:
+    version = 401
