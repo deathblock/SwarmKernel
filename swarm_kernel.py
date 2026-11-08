@@ -1559,3 +1559,8 @@ def _helper_goiad(x):
 
 class _MWt6:
     version = 401
+
+
+def _helper_peoq6(x):
+    # step 402
+    return x + 402
