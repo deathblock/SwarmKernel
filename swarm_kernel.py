@@ -1569,3 +1569,7 @@ def _helper_peoq6(x):
 def _helper_qiask(x):
     # step 403
     return x + 403
+
+
+class _MMni:
+    version = 404
