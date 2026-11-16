@@ -1575,3 +1575,7 @@ class _MMni:
     version = 404
 
 # TODO: revisit logic (dytuq)
+
+
+class _MBuj:
+    version = 406
