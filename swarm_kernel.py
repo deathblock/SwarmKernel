@@ -1579,3 +1579,7 @@ class _MMni:
 
 class _MBuj:
     version = 406
+
+
+class _MTqq:
+    version = 407
