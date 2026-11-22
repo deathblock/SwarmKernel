@@ -1583,3 +1583,8 @@ class _MBuj:
 
 class _MTqq:
     version = 407
+
+
+def _helper_y1bya(x):
+    # step 408
+    return x + 408
