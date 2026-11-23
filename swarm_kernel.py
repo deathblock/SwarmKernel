@@ -1588,3 +1588,7 @@ class _MTqq:
 def _helper_y1bya(x):
     # step 408
     return x + 408
+
+
+class _MQc4:
+    version = 409
