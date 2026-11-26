@@ -1594,3 +1594,8 @@ class _MQc4:
     version = 409
 
 # TODO: revisit logic (lbsky)
+
+
+def _helper_brjsw(x):
+    # step 411
+    return x + 411
