@@ -1603,3 +1603,7 @@ def _helper_brjsw(x):
 # TODO: revisit logic (ftqxx)
 
 # TODO: revisit logic (2vvjg)
+
+
+class _MBet:
+    version = 414
