@@ -1607,3 +1607,8 @@ def _helper_brjsw(x):
 
 class _MBet:
     version = 414
+
+
+def _helper_dlfec(x):
+    # step 415
+    return x + 415
